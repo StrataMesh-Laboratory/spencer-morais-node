@@ -1,0 +1,37 @@
+{
+  "node_id": "FOG-NODE-PT-CM-001",
+  "name": "Calhegas Morais",
+  "name_pt": "Nó de Névoa Calhegas Morais",
+  "operator": "André Manuel Calhegas Morais",
+  "operator_entity": "AMCM ENI",
+  "lab": true,
+  "location": {
+    "lat": 38.7169,
+    "lon": -9.1427,
+    "label": "Lisbon, Portugal",
+    "locality_pt": "Lisboa, Portugal"
+  },
+  "links": {
+    "site": "https://calhegasmorais.pt/",
+    "portal": "https://calhegasmorais.pt/dashboard",
+    "status": "https://status.calhegasmorais.pt/status",
+    "eni": "https://eni.calhegasmorais.pt/",
+    "repo": "https://github.com/StrataMesh-Laboratory/stratamesh-core",
+    "laboratory": "https://github.com/StrataMesh-Laboratory",
+    "node_registry": "https://github.com/StrataMesh-Laboratory/calhegas-morais-node",
+    "operator_registry": "https://github.com/amcmorais/amcm-eni"
+  },
+  "treasury": {
+    "kind": "NODE_WALLET",
+    "note": "Fog treasury wallet — not a user/SCA account"
+  },
+  "foundation_stack": [
+    "dlt",
+    "node",
+    "metaverse_os",
+    "virtual_realm",
+    "open_world",
+    "ugc_sandbox",
+    "agent"
+  ]
+}
