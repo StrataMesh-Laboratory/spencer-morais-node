@@ -35,3 +35,9 @@ Protocol implementation lives in **stratamesh-core**. This repo does not duplica
 ## Lab notice
 
 This node runs **laboratory** infrastructure (`lab: true`). Not production mainnet.
+
+## Community
+
+- Forum: https://stratamesh.discourse.group
+- Lab org: https://github.com/StrataMesh-Laboratory
+- Contact: geral@eni.calhegasmorais.pt
