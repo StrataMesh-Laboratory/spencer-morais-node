@@ -1,19 +1,19 @@
-# Calhegas Morais Node
+# Spencer-Morais Node
 
 Reference **Fog Node** for [StrataMesh Laboratory](https://github.com/StrataMesh-Laboratory).
 
 | Field | Value |
 |-------|--------|
 | **Node ID** | `FOG-NODE-PT-CM-001` |
-| **Name** | Calhegas Morais / Nó de Névoa Calhegas Morais |
+| **Name** | Spencer-Morais Node (SMN) |
 | **Locality** | Lisboa, Portugal (~38.7169, −9.1427) |
 | **Operator** | André Manuel Calhegas Morais · [AMCM ENI](https://github.com/amcmorais/amcm-eni) |
 | **Laboratory** | [StrataMesh-Laboratory](https://github.com/StrataMesh-Laboratory) |
 | **Protocol core** | [stratamesh-core](https://github.com/StrataMesh-Laboratory/stratamesh-core) |
-| **Portal** | https://calhegasmorais.pt/ |
+| **Portal** | https://node.spencer-morais.pt/ |
 | **ENI** | https://eni.calhegasmorais.pt/ |
-| **Status JSON** | https://status.calhegasmorais.pt/status |
-| **Status live** | https://status.calhegasmorais.pt/live |
+| **Status JSON** | https://node.spencer-morais.pt/status/status |
+| **Status live** | https://node.spencer-morais.pt/status/live |
 
 ## What this repository is
 
