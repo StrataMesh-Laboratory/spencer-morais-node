@@ -13,7 +13,7 @@ cd src && python3 protocol_benchmark.py
 
 ## Live health
 
-- Status aggregation: `https://status.calhegasmorais.pt/status`
+- Status aggregation: `https://node.spencer-morais.pt/status/status`
 - AIOps cycle (when enabled): worker `/cycle` or `/last` under AIOps service
 - Upstream flags in status: token, dag, agora, republic, auth, aiops, holons, …
 

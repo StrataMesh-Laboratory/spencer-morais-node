@@ -5,8 +5,8 @@
 | Field | Value |
 |-------|--------|
 | node_id | `FOG-NODE-PT-CM-001` |
-| name | Calhegas Morais |
-| name_pt | Nó de Névoa Calhegas Morais |
+| name | Spencer-Morais Node |
+| name_pt | Spencer-Morais Node |
 | operator | André Manuel Calhegas Morais |
 | location.label | Lisbon, Portugal |
 | location.locality_pt | Lisboa, Portugal |
@@ -15,7 +15,7 @@
 ## Live pulse (authoritative at runtime)
 
 ```text
-GET https://status.calhegasmorais.pt/status
+GET https://node.spencer-morais.pt/status/status
 ```
 
 Typical fields: `version`, `phase`, `upstream.*`, `monetary`, `versions`, `links`.

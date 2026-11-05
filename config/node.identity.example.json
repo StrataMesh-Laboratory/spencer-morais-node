@@ -1,7 +1,7 @@
 {
   "node_id": "FOG-NODE-PT-CM-001",
-  "name": "Calhegas Morais",
-  "name_pt": "Nó de Névoa Calhegas Morais",
+  "name": "Spencer-Morais Node",
+  "name_pt": "Spencer-Morais Node",
   "operator": "André Manuel Calhegas Morais",
   "operator_entity": "AMCM ENI",
   "lab": true,
@@ -12,13 +12,13 @@
     "locality_pt": "Lisboa, Portugal"
   },
   "links": {
-    "site": "https://calhegasmorais.pt/",
-    "portal": "https://calhegasmorais.pt/dashboard",
-    "status": "https://status.calhegasmorais.pt/status",
+    "site": "https://node.spencer-morais.pt/",
+    "portal": "https://node.spencer-morais.pt/dashboard",
+    "status": "https://node.spencer-morais.pt/status/status",
     "eni": "https://eni.calhegasmorais.pt/",
     "repo": "https://github.com/StrataMesh-Laboratory/stratamesh-core",
     "laboratory": "https://github.com/StrataMesh-Laboratory",
-    "node_registry": "https://github.com/StrataMesh-Laboratory/calhegas-morais-node",
+    "node_registry": "https://github.com/StrataMesh-Laboratory/spencer-morais-node",
     "operator_registry": "https://github.com/amcmorais/amcm-eni"
   },
   "treasury": {
